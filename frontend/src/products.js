@@ -12,7 +12,7 @@ const products = [
     name: "Euro Paleta",
     image: "/images/euro-palet.jpg",
     description: "Euro paleta nova",
-    price: 99,
+    price: 99.99,
     countInStock: 100,
   },
   {
@@ -29,7 +29,7 @@ const products = [
     name: "Potpala",
     image: "/images/potpala.jpg",
     description: "Drvo za potpalu u vreći",
-    price: 12,
+    price: 9.99,
     countInStock: 150,
   },
   {
