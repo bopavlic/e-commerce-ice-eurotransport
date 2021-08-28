@@ -9,7 +9,7 @@ const Header = () => {
           <Navbar.Brand href="/">Ice Eurotransport</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="me-auto">
+            <Nav className="mr-auto">
               <Nav.Link href="#home">Cart</Nav.Link>
               <Nav.Link href="#link">Login</Nav.Link>
             </Nav>
