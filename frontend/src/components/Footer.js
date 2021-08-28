@@ -7,7 +7,7 @@ const Footer = () => {
       <Container>
         <Row>
           <Col className="text-center py-3">
-            Copyright © 2021 Ice Eurotransport d.o.o. All rights reserved.
+            Copyright &copy; 2021 Ice Eurotransport d.o.o. All rights reserved.
           </Col>
         </Row>
       </Container>
