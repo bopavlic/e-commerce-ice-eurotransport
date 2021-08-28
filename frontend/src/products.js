@@ -42,12 +42,12 @@ const products = [
     countInStock: 1000,
   },
   {
-    _id: 3,
+    _id: 6,
     name: "Transport",
     image: "/images/transport.jpg",
     description:
-      "Mogućnost transporta svih navedenih artikla, ali i prijevoz Vaše robe.",
-    price: 2500,
-    countInStock: 10,
+      "Mogućnost transporta svih navedenih artikla, ali i prijevoz Vaše robe. Nazvati za cijenu",
+    price: 9999,
+    countInStock: 10000,
   },
 ];
